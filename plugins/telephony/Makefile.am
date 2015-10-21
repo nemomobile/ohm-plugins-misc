@@ -1,1 +1,0 @@
-SUBDIRS = ohm #mission-control
